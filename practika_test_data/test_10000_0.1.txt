@@ -1,0 +1,7 @@
+count=10000
+mean_freq=11000000.1905
+var_freq=9867.108720622064
+mean_len=5049.5088
+var_len=100.90261282128215
+mean_ang=0.0
+var_ang=0.0
